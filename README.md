@@ -1,10 +1,9 @@
 
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/58129377/194710464-98f38a49-12d9-4748-8c85-4b9433853039.png)
 
-
- <!-- https://BoseSj.github.io/portfolio/  -->
+<!-- https://BoseSj.github.io/portfolio/  -->
 <p align="center">
- 
+
 </p align="center">
 <!-- <img src="https://github.com/BoseSj/BoseSj/blob/main/images/newbg(1).png"/> -->
 
@@ -24,6 +23,7 @@
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/-Bash-black?style=flat-square&logo=shell"/>
 </p>
 
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
