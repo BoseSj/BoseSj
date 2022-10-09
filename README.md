@@ -1,12 +1,16 @@
-<!-- ![image](https://user-images.githubusercontent.com/58129377/194710464-98f38a49-12d9-4748-8c85-4b9433853039.png) -->
+<!--![image](https://user-images.githubusercontent.com/58129377/194710464-98f38a49-12d9-4748-8c85-4b9433853039.png)-->
+[![@bosesj's Holopin board](https://holopin.io/api/user/board?user=bosesj)](https://holopin.io/@bosesj)
+
+
 <img align="left" img src="https://media2.giphy.com/media/uXA3AVxUtHsVKVjlj8/giphy.gif?cid=790b76110db2641d2ab4a7f2ff0aa725c29a3aa53446ad3b&rid=giphy.gif&ct=s" width="170px">
-<br>
-   I'm a final year student pursuing BTech in Computer Science 🎓. I'm a passionate about learning and finding creative solutions 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I am a python-backend developer👨‍💻. Also into Blockchain 🔗 and Machine Learning 🤖. 
 
-<br>
-<br>
+<p>
+I'm a final year student pursuing BTech in Computer Science 🎓. 
+</p>
+<p>
+   I'm a passionate about learning and finding creative solutions 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I am a python-backend developer👨‍💻. Also into Blockchain 🔗 and Machine Learning 🤖. 
+</p>
 
-</br>
 <h2 align="center">Technology Stack<img src="https://media.giphy.com/media/HCwnYWnMgLZUW1BtP2/giphy.gif" width="99"></h2>
 
 <p align="center">
