@@ -1,23 +1,26 @@
 <!-- ![image](https://user-images.githubusercontent.com/58129377/194710464-98f38a49-12d9-4748-8c85-4b9433853039.png) -->
-</br>
-<img align="left" img src="https://media2.giphy.com/media/uXA3AVxUtHsVKVjlj8/giphy.gif?cid=790b76110db2641d2ab4a7f2ff0aa725c29a3aa53446ad3b&rid=giphy.gif&ct=s" width="130px">
+<img align="left" img src="https://media2.giphy.com/media/uXA3AVxUtHsVKVjlj8/giphy.gif?cid=790b76110db2641d2ab4a7f2ff0aa725c29a3aa53446ad3b&rid=giphy.gif&ct=s" width="170px">
+<br>
    I'm a final year student pursuing BTech in Computer Science 🎓. I'm a passionate about learning and finding creative solutions 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I am a python-backend developer👨‍💻. Also into Blockchain 🔗 and Machine Learning 🤖. 
-<br/>
+
+<br>
+<br>
 
 </br>
-<h2 align="center">Technology Stack <img src="https://github.com/BoseSj/BoseSj/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center">Technology Stack<img src="https://media.giphy.com/media/HCwnYWnMgLZUW1BtP2/giphy.gif" width="99"></h2>
 
 <p align="center">
- <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Python-2C2D2C?style=flat-square&logo=python"/>
+ <img src="https://img.shields.io/badge/-Python-0E2A46?style=flat-square&logo=python&logoColor=yellow"/>
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=django"/>
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+<!-- <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/> -->
+<img src="https://img.shields.io/badge/-Powershell-black?style=flat-square&logo=powershell"/>
+<img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-<img src="https://img.shields.io/badge/-Bash-black?style=flat-square&logo=shell"/>
 </p>
 <br/>
 
@@ -44,7 +47,6 @@
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
- 
 <br>
 
 <p align = "center">
