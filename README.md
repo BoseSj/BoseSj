@@ -1,15 +1,10 @@
-![image](https://user-images.githubusercontent.com/58129377/194710464-98f38a49-12d9-4748-8c85-4b9433853039.png)
+<!-- ![image](https://user-images.githubusercontent.com/58129377/194710464-98f38a49-12d9-4748-8c85-4b9433853039.png) -->
+</br>
+<img align="left" img src="https://media2.giphy.com/media/uXA3AVxUtHsVKVjlj8/giphy.gif?cid=790b76110db2641d2ab4a7f2ff0aa725c29a3aa53446ad3b&rid=giphy.gif&ct=s" width="130px">
+   I'm a final year student pursuing BTech in Computer Science 🎓. I'm a passionate about learning and finding creative solutions 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I am a python-backend developer👨‍💻. Also into Blockchain 🔗 and Machine Learning 🤖. 
+<br/>
 
-<!-- https://BoseSj.github.io/portfolio/  -->
-<p align="center">
-
-</p align="center">
-<!-- <img src="https://github.com/BoseSj/BoseSj/blob/main/images/newbg(1).png"/> -->
-
-<!-- <p align="center">
-  I'm a 3rd year student pursuing Master's in Computer Applications 🎓 from Guru Gobind Singh Indraprastha University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development.
-</p>   -->
-
+</br>
 <h2 align="center">Technology Stack <img src="https://github.com/BoseSj/BoseSj/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
@@ -24,6 +19,7 @@
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 <img src="https://img.shields.io/badge/-Bash-black?style=flat-square&logo=shell"/>
 </p>
+<br/>
 
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
@@ -54,6 +50,7 @@
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=BoseSj&show_icons=true&theme=codeSTACKr&line_height=31&hide=stars">
   <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BoseSj&layout=compact"> -->
+  
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=BoseSj&show_icons=true&locale=en&layout=compact&theme=codeSTACKr&line_height=0" />
 </p> 
 
