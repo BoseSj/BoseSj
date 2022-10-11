@@ -1,17 +1,12 @@
-
-
-<!-- [![@bosesj's Holopin board](https://holopin.io/api/user/board?user=bosesj)](https://holopin.io/@bosesj)-->
-
-
 <img align="left" img src="https://media2.giphy.com/media/uXA3AVxUtHsVKVjlj8/giphy.gif?cid=790b76110db2641d2ab4a7f2ff0aa725c29a3aa53446ad3b&rid=giphy.gif&ct=s" width="190px">
+
 <br>
-
-I'm a final year student pursuing BTech in Computer Science 🎓. 
-   
+<br>
+<p>I'm a final year student pursuing BTech in Computer Science 🎓. </p>
 <p>
-   <p align="centre">I'm a passionate about learning and finding creative solutions 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I am a python-backend developer👨‍💻. Also into Blockchain 🔗 and Machine Learning 🤖. </p>
+I'm a passionate about learning and finding creative solutions 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I am a Python-Backend developer👨‍💻. Also into Blockchain 🔗 and Machine Learning 🤖. </p>
 </p>
-
+<br>
 <br>
 
 <h2 align="center">Technology Stack<img src="https://media.giphy.com/media/HCwnYWnMgLZUW1BtP2/giphy.gif" width="99"></h2>
@@ -59,12 +54,12 @@ I'm a final year student pursuing BTech in Computer Science 🎓.
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=BoseSj&show_icons=true&theme=codeSTACKr&line_height=31&hide=stars">
   <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BoseSj&layout=compact"> -->
-  
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=BoseSj&show_icons=true&locale=en&layout=compact&theme=codeSTACKr&line_height=0" />
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=BoseSj&show_icons=true&locale=en&layout=compact&theme=codeSTACKr&line_height=0" />
 </p> 
 
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=BoseSj&theme=codeSTACKr">
 </p> 
 <hr>
+
 <p align="center">Thank You for Visiting 😄</p>
