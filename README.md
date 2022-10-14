@@ -1,40 +1,42 @@
-<img align="left" img src="https://media2.giphy.com/media/uXA3AVxUtHsVKVjlj8/giphy.gif?cid=790b76110db2641d2ab4a7f2ff0aa725c29a3aa53446ad3b&rid=giphy.gif&ct=s" width="190px">
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is SJ Basak
+================================================================================================================================
 
-<br>
-<br>
-<p>I'm a final year student pursuing BTech in Computer Science 🎓. </p>
-<p>
-I'm a passionate about learning and finding creative solutions 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I am a Python-Backend developer👨‍💻. Also into Blockchain 🔗 and Machine Learning 🤖. </p>
-</p>
-<br>
-<br>
+Collaborator, Learner & Developer
+ ---------------------------------
+ 
+I'm a passionate about learning and finding creative solutions 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I am a Python-Backend developer👨‍💻. Also into Blockchain 🔗 and Machine Learning 🤖.
+
+* 🌍  I'm based in India <img align="right" img src="https://media2.giphy.com/media/uXA3AVxUtHsVKVjlj8/giphy.gif?cid=790b76110db2641d2ab4a7f2ff0aa725c29a3aa53446ad3b&rid=giphy.gif&ct=s" width="210px">
+* ✉️  You can contact me at [sjbasak@outlook.com](mailto:sjbasak@outlook.com)  
+* 🎓  I'm a final year Computer Science Student 
+* 🧠  Currently working on Machine Learning  
+* 🤝  I'm open to collaborating on Blockchain Projetcs
+* 🍵  I prefer coffee over tea
+* ⚡  Novels, Podcasts and Documentries
+
 
 <h2 align="center">Technology Stack<img src="https://media.giphy.com/media/HCwnYWnMgLZUW1BtP2/giphy.gif" width="99"></h2>
 
 <p align="center">
- <img src="https://img.shields.io/badge/-Python-0E2A46?style=flat-square&logo=python&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=django"/>
-<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-<!-- <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/> -->
-<img src="https://img.shields.io/badge/-Powershell-black?style=flat-square&logo=powershell"/>
-<img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+ <a href="https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a> 
+<a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+ <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+ <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
+<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
+<a href="https://trufflesuite.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/truffle-colored.svg" width="36" height="36" alt="Truffle" /></a>
+<a href="https://chain.link/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chainlink-colored.svg" width="36" height="36" alt="Chainlink" /></a>
 </p>
 <br/>
 
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sj-basak-851253196/">
- <img src="https://img.shields.io/badge/-SJ Basak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sj-basak-851253196/"/>
-</a>
- <a href="https://twitter.com/_Bose_Sj_">
- <img src="https://img.shields.io/badge/-_Bose_Sj_-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/_Bose_Sj_"/>
-</a>
+ <a href="https://www.twitter.com/_Bose_Sj_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+ <a href="https://www.linkedin.com/in/sj-basak-851253196" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+ <a href="https://discord.com/users/SJ#0881" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+ <a href="https://www.dev.to/bosesj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>  
 </p>
 
 
@@ -61,5 +63,3 @@ I'm a passionate about learning and finding creative solutions 💡. I love to e
  <img src="https://activity-graph.herokuapp.com/graph?username=BoseSj&theme=codeSTACKr">
 </p> 
 <hr>
-
-<p align="center">Thank You for Visiting 😄</p>
