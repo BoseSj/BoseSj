@@ -4,9 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Collaborator, Learner & Developer
  ---------------------------------
  
-I'm a passionate about learning and finding creative solutions 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I am a Python-Backend developer👨‍💻. Also into Blockchain 🔗 and Machine Learning 🤖.
-
-* 🌍  I'm based in India <img align="right" img src="https://media2.giphy.com/media/uXA3AVxUtHsVKVjlj8/giphy.gif?cid=790b76110db2641d2ab4a7f2ff0aa725c29a3aa53446ad3b&rid=giphy.gif&ct=s" width="210px">
+I'm a passionate about learning and finding creative solutions 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I am a Python-Backend developer👨‍💻. Also into Blockchain 🔗 and Machine Learning 🤖. <img src="https://media.giphy.com/media/lwQ071KVnWUaORbLDc/giphy.gif" align="right" width=300px>
+<br>
+<br>
+* 🌍  I'm based in India 
 * ✉️  You can contact me at [sjbasak@outlook.com](mailto:sjbasak@outlook.com)  
 * 🎓  I'm a final year Computer Science Student 
 * 🧠  Currently working on Machine Learning  
@@ -14,7 +15,8 @@ I'm a passionate about learning and finding creative solutions 💡. I love to e
 * 🍵  I prefer coffee over tea
 * ⚡  Novels, Podcasts and Documentries
 
-
+<br>
+<br>
 <h2 align="center">Technology Stack<img src="https://media.giphy.com/media/HCwnYWnMgLZUW1BtP2/giphy.gif" width="99"></h2>
 
 <p align="center">
