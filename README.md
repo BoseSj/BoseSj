@@ -1,4 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am SJ Basak
+
+Hi ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50" height="50"/> I am SJ Basak
 ================================================================================================================================
 
 Collaborator, Learner & Developer
