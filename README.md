@@ -59,9 +59,9 @@ I'm a passionate about learning and finding creative solutions 💡. I love to e
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=BoseSj&show_icons=true&theme=codeSTACKr&line_height=31&hide=stars">
-  <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BoseSj&layout=compact"> -->
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=BoseSj&show_icons=true&locale=en&layout=compact&theme=codeSTACKr&line_height=0" />
+  <img  src = "https://github-readme-stats.vercel.app/api?username=BoseSj&show_icons=true&theme=codeSTACKr&line_height=25&hide=stars"align = "left">
+   <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BoseSj&layout=compact"> -->
+   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=BoseSj&show_icons=true&locale=en&layout=compact&theme=codeSTACKr&line_height=0"/>
 </p> 
 
 <p align = "center">
