@@ -22,6 +22,7 @@ I'm a passionate about learning and finding creative solutions 💡. I love to e
 
 <br>
 <br>
+<br>
 <h2 align="center">Technology Stack<img src="https://media.giphy.com/media/HCwnYWnMgLZUW1BtP2/giphy.gif" width="99"></h2>
 
 <p align="center">
