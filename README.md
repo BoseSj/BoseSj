@@ -9,7 +9,6 @@ I'm a passionate about learning and finding creative solutions 💡. I love to e
 <br>
 <br>
 * 🌍  I'm based in India 
-* ✉️  You can contact me at [sjbasak@outlook.com](mailto:sjbasak@outlook.com)  
 * 🎓  I'm a final year Computer Science Student 
 * 🌟  Hacktoberfest [22](https://holopin.me/bosesj) | [Contributor](https://novu.co/contributors/BoseSj/) @ Novu
 * 🧠  Currently working on Machine Learning  
@@ -30,6 +29,8 @@ I'm a passionate about learning and finding creative solutions 💡. I love to e
 <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+ <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
@@ -59,11 +60,10 @@ I'm a passionate about learning and finding creative solutions 💡. I love to e
 <br>
 
 <p align = "left">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=BoseSj&show_icons=true&theme=codeSTACKr&line_height=25&hide=stars" align = "left" />
-   <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BoseSj&layout=compact"> -->
-<!--    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=BoseSj&show_icons=true&locale=en&layout=compact&theme=codeSTACKr"/> -->
+  <img  src = "https://github-readme-stats.vercel.app/api?username=BoseSj&show_icons=true&theme=codeSTACKr&line_height=29&hide=stars" />
+   <!--    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=BoseSj&show_icons=true&locale=en&layout=compact&theme=codeSTACKr"/> -->
 </p> 
-<br>
+
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=BoseSj&theme=codeSTACKr">
 </p> 
