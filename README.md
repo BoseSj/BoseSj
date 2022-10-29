@@ -15,6 +15,18 @@ I'm a passionate about learning and finding creative solutions 💡. I love to e
 * 🍵  I prefer coffee over tea
 * ⚡  Novels, Podcasts and Documentries
 
+
+<br>
+<br>
+<a href="https://novu.co/contributors/BoseSj/"><img src="https://contributors.novu.co/profiles/BoseSj-small.jpg" height="170" width="450" alt="" align="left"/></a>
+<a href="https://holopin.me/bosesj"><img src="https://holopin.me/bosesj" height="170" width="500" alt="@bosesj's Holopin board" align="right"/></a>
+<!-- [![@bosesj's Holopin board](https://holopin.me/bosesj)](https://holopin.io/@bosesj) -->
+
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <h2 align="center">Technology Stack<img src="https://media.giphy.com/media/HCwnYWnMgLZUW1BtP2/giphy.gif" width="99"></h2>
