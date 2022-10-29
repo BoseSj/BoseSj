@@ -59,7 +59,7 @@ I'm a passionate about learning and finding creative solutions 💡. I love to e
 <br>
 
 <p align = "left">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=BoseSj&show_icons=true&theme=codeSTACKr&line_height=25&hide=stars" width = "500" align = "left" />
+  <img  src = "https://github-readme-stats.vercel.app/api?username=BoseSj&show_icons=true&theme=codeSTACKr&line_height=25&hide=stars" width = "350" align = "left" />
  </p>
    <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=BoseSj&layout=compact"> -->
 <p align = "right">
