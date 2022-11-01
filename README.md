@@ -64,10 +64,11 @@ I'm a passionate about learning and finding creative solutions 💡. I love to e
 <br>
 
 <p align = "left">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=BoseSj&show_icons=true&theme=codeSTACKr&line_height=29&hide=stars" />
+ <a href="http://www.github.com/BoseSj"><img src="https://github-readme-stats.vercel.app/api?username=BoseSj&show_icons=true&theme=codeSTACKr&line_height=29&hide=stars" alt="BoseSj's GitHub stats" /></a>
+<!--   <img  src = "https://github-readme-stats.vercel.app/api?username=BoseSj&show_icons=true&theme=codeSTACKr&line_height=29&hide=stars" /> -->
    <!--    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=BoseSj&show_icons=true&locale=en&layout=compact&theme=codeSTACKr"/> -->
 </p> 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=BoseSj&theme=codeSTACKr">
+<a href="http://www.github.com/BoseSj"><img src="https://activity-graph.herokuapp.com/graph?username=BoseSj&show_icons=true&theme=codeSTACKr&line_height=29&hide=stars" alt="GitHub Commits Graph" /></a>`
 </p> 
