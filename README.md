@@ -10,7 +10,7 @@ I'm a passionate about learning and finding creative solutions 💡. I love to e
 <br>
 * 🌍  I'm based in India 
 * 🎓  I'm a final year Computer Science Student 
-* 🌟  Hacktoberfest [22](https://holopin.me/bosesj) | [Contributor](https://novu.co/contributors/BoseSj/) @ Novu
+* 🌟  Hacktoberfest [22](https://holopin.me/bosesj) | [Contributor](https://novu.co/contributors/BoseSj/) @Novu
 * 🧠  Currently working on Machine Learning  
 * 🤝  I'm open to collaborating on Blockchain Projetcs
 * 🍵  I prefer coffee over tea
