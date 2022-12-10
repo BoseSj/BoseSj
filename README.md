@@ -70,5 +70,5 @@ I'm a passionate about learning and finding creative solutions 💡. I love to e
 </p> 
 
 <p align = "center">
-<a href="http://www.github.com/BoseSj"><img src="https://activity-graph.herokuapp.com/graph?username=BoseSj&show_icons=true&theme=codeSTACKr&line_height=29&hide=stars" alt="GitHub Commits Graph" /></a>`
+<a href="http://www.github.com/BoseSj"><img src="https://activity-graph.herokuapp.com/graph?username=BoseSj&show_icons=true&theme=codeSTACKr&line_height=29&hide=stars" alt="GitHub Commits Graph" /></a>
 </p> 
