@@ -1,5 +1,6 @@
 
 [![An image of @bosesj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bosesj)](https://holopin.io/@bosesj)
+
 Hi ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50" height="50"/> I am SJ Basak
 ================================================================================================================================
 
@@ -10,19 +11,18 @@ I'm a passionate about learning and finding creative solutions 💡. I love to e
 <br>
 <br>
 * 🌍  I'm based in India 
-* 🎓  I'm a final year Computer Science Student 
-* 🌟  Hacktoberfest [22](https://holopin.me/bosesj) | [Contributor](https://novu.co/contributors/BoseSj/) @Novu
+* 🎓  I'm a final year Computer Science Student
+* 🌟  Hacktoberfest [22](https://holopin.me/bosesj) 
+* 🏅  Among [top 20](https://www.hacksquad.dev/team/hypnotic-hackers-BjCfG) in [HackSquad 22](https://www.hacksquad.dev/)
 * 🧠  Currently working on Machine Learning  
 * 🤝  I'm open to collaborating on Blockchain Projetcs
 * 🍵  I prefer coffee over tea
 * ⚡  Novels, Podcasts and Documentries
 
-<!--<a href="https://novu.co/contributors/BoseSj/"><img src="https://contributors.novu.co/profiles/BoseSj-small.jpg" height="90" width="200" alt="" align="left"/></a>-->
-<!-- <a href="https://holopin.me/bosesj"><img src="https://holopin.me/bosesj" height="170" width="500" alt="@bosesj's Holopin board" align="right"/></a> -->
-<!-- [![@bosesj's Holopin board](https://holopin.me/bosesj)](https://holopin.io/@bosesj) -->
+<br>
+<br>
+<a href="https://novu.co/contributors/BoseSj/"><img src="https://contributors.novu.co/profiles/BoseSj-small.jpg" height="170" width="450" alt=""/></a>
 
-<br>
-<br>
 <br>
 <h2 align="center">Technology Stack<img src="https://media.giphy.com/media/HCwnYWnMgLZUW1BtP2/giphy.gif" width="99"></h2>
 
