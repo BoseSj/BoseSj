@@ -1,5 +1,5 @@
 
-[![An image of @bosesj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bosesj)](https://holopin.io/@bosesj)
+<!-- [![An image of @bosesj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bosesj)](https://holopin.io/@bosesj) -->
 
 Hi ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50" height="50"/> I am SJ Basak
 ================================================================================================================================
@@ -7,7 +7,7 @@ Hi ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/As
 Collaborator, Learner & Developer
  ---------------------------------
  
-I'm a passionate about learning and finding creative solutions 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I am a Python-Backend developer👨‍💻. Also into Blockchain 🔗 and Machine Learning 🤖. <img src="https://media.giphy.com/media/lwQ071KVnWUaORbLDc/giphy.gif" align="right" width=300px>
+I'm a passionate about learning and finding creative solutions 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I am a Python-Backend developer👨‍💻. Also working on Blockchain 🔗 and currently studying Machine Learning 🤖. <img src="https://media.giphy.com/media/lwQ071KVnWUaORbLDc/giphy.gif" align="right" width=300px>
 <br>
 <br>
 * 🌍  I'm based in India 
