@@ -7,7 +7,8 @@ Hi ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/As
 Collaborator, Learner & Developer
  ---------------------------------
  
-I'm a passionate about learning and finding creative solutions 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I am a Python-Backend developer👨‍💻. Also working on Blockchain 🔗 and currently studying Machine Learning 🤖. <img src="https://media.giphy.com/media/lwQ071KVnWUaORbLDc/giphy.gif" align="right" width=300px>
+<!-- I'm a passionate about learning and finding creative solutions 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I am a Python-Backend developer👨‍💻. Also working on Blockchain 🔗 and currently studying Machine Learning 🤖. -->
+I enjoy learning new things and coming up with creative solutions. It is my passion to explore new technologies and use them to solve real-life problems. My specialty is Python-Backend development. In present, I'm studying web3 and cloud computing. <img src="https://media.giphy.com/media/lwQ071KVnWUaORbLDc/giphy.gif" align="right" width=300px>
 <br>
 <br>
 * 🌍  I'm based in India 
