@@ -1,5 +1,5 @@
 
-<!-- [![An image of @bosesj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bosesj)](https://holopin.io/@bosesj) -->
+[![An image of @bosesj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bosesj)](https://holopin.io/@bosesj)
 
 Hi ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50" height="50"/> I am SJ Basak
 ================================================================================================================================
