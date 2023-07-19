@@ -57,7 +57,14 @@ I enjoy learning new things and coming up with creative solutions. It is my pass
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
 <p align="center">
-  <img src="https://github.com/BoseSj/BoseSj/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+<!--   <img src="https://github.com/BoseSj/BoseSj/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>-->
+
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 </p>
 
 <h2 align="center">
