@@ -15,15 +15,14 @@ I enjoy learning new things and coming up with creative solutions. It is my pass
 * 🎓  I'm a final year Computer Science Student
 * 🌟  Hacktoberfest [22](https://holopin.me/bosesj) 
 * 🏅  Among [top 20](https://www.hacksquad.dev/team/hypnotic-hackers-BjCfG) in [HackSquad 22](https://www.hacksquad.dev/)
-* 🧠  Currently working on Machine Learning  
-* 🤝  I'm open to collaborating on Blockchain Projetcs
+<!-- * 🧠  Currently working on Machine Learning  
+* 🤝  I'm open to collaborating on Blockchain Projetcs -->
 * 🍵  I prefer coffee over tea
 * ⚡  Novels, Podcasts and Documentries
 
 <br>
 <br>
-<a href="https://novu.co/contributors/BoseSj/"><img src="https://contributors.novu.co/profiles/BoseSj-small.jpg" height="170" width="450" alt=""/></a>
-
+<a href="https://novu.co/contributors/BoseSj/"><img src="https://contributors.novu.co/profiles/BoseSj-small.jpg" height="170" width="450" alt="" /></a>
 <br>
 <h2 align="center">Technology Stack<img src="https://media.giphy.com/media/HCwnYWnMgLZUW1BtP2/giphy.gif" width="99"></h2>
 
