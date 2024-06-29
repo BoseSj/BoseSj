@@ -21,9 +21,9 @@ I enjoy learning new things and coming up with creative solutions. It is my pass
 * ⚡  Novels, Podcasts and Documentries
 
 <br>
-<!-- <br> -->
+<br>
 <!-- <a href="https://novu.co/contributors/BoseSj/"><img src="https://contributors.novu.co/profiles/BoseSj-small.jpg" height="170" width="450" alt="" /></a> -->
-<!-- <br> -->
+<br>
 <h2 align="center">Technology Stack<img src="https://media.giphy.com/media/HCwnYWnMgLZUW1BtP2/giphy.gif" width="99"></h2>
 
 <p align="center">
